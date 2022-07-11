@@ -1,16 +1,13 @@
-### Hi there 👋
+# Adenike Awofeso
+Hi there 👋, I am Adenike Awofeso, a Software Engineer interested in full-stack web development with great experiences for everyone.
 
-<!--
-**nikkifeso/nikkifeso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on improving my CSS skills and building my personal website.
+- 🌱 I’m currently learning React and React Ecosystems, libraries, frameworks or technologies and Java.
+- 👯 I’m looking to collaborate on Open Source Projects, code reviews and any interesting projects.
+- 🤔 I’m looking for help with JavaScript, ReactJS, Java.
+- 💬 Ask me about Python, Django, JavaScript, ReactJS, HTML, CSS.
+- 📫 How to reach me: adenikeawofeso@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I absolutely love music, and cooking.
