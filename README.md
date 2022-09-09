@@ -9,5 +9,4 @@ Hi there 👋, I am Adenike Awofeso, a Software Engineer interested in full-stac
 - 🤔 I’m looking for help with JavaScript, ReactJS, Java.
 - 💬 Ask me about Python, Django, JavaScript, ReactJS, HTML, CSS.
 - 📫 How to reach me: adenikeawofeso@gmail.com
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I absolutely love music, and cooking.
